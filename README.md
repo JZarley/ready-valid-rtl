@@ -1,6 +1,6 @@
-# RTL Design and Verification Foundation
-## Project purpose
-This project develops reusable RTL blocks from explicit specifications, with emphasis on interface contracts, backpressure, parameterization, verification, debugging, and synthesis.
+# Ready/Valid RTL — Design and Verification
+## Project Purpose
+This project implements a parameterized ready/valid buffer and synchronous FIFO in SystemVerilog, with emphasis on backpressure, interface correctness, parameterization, synthesis, and self-checking verification.
 
 Designs are implemented in SystemVerilog and verified using directed testing, assertions, reference models, randomized traffic, and seeded regression.
 
